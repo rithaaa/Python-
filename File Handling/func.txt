@@ -1,0 +1,3 @@
+Function is a reusable block of code which consist of set of instructions to persome some specific task.
+There are two types:
+They are inbuilt function and user-defined function.
